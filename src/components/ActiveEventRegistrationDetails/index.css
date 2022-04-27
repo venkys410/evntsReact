@@ -1,0 +1,74 @@
+/* Write your CSS here */
+.registration-page {
+  width: 90%;
+}
+.noEvent-container {
+  padding-top: 30px;
+}
+.noEvent-para {
+  text-align: center;
+  font-size: 26px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #475569;
+}
+.registered-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.tick-icon {
+  height: 65px;
+  width: 65px;
+}
+.registered-para {
+  text-align: center;
+  font-size: 26px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #323f4b;
+}
+.closed-img {
+  width: 100%;
+}
+.closed-heading {
+  text-align: center;
+  font-size: 26px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #323f4b;
+}
+.closed-para {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #475569;
+  width: 50%;
+}
+.yet-img {
+  width: 100%;
+}
+.yet-para {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+.register-btn {
+  background-color: #0967d2;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  /* align-self: stretch; */
+  width: 80%;
+  border: none;
+  border-radius: 6px;
+  outline: none;
+  cursor: pointer;
+  font-size: 20px;
+}
